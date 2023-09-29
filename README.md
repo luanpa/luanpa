@@ -6,8 +6,6 @@
 
 ###  
   
-
-- 🔭 [https://github.com/luanpa](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 Atualmente estou aprendendo React  
