@@ -5,7 +5,7 @@
   
 
 ###  
-  - 💬  <P>https://www.linkedin.com/in/luan-batista-9223a41a1/</p>
+  - 💬  https://www.linkedin.com/in/luan-batista-9223a41a1/
   
 
 - 🌱 Atualmente estou aprendendo React  
