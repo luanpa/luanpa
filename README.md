@@ -5,11 +5,9 @@
   
 
 ### <div align="center">Oi! meu nome e Luan, full-stack developer 👨‍💻 working 🚀</div>  
+   
   
-
-- 🔭 [https://github.com/luanpa](https://github.com/rishavanand/github-profilinator)  
-  
-
+ 
 - 🌱 Atualmente estou aprendendo React  
   
 
