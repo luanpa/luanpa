@@ -1,10 +1,10 @@
-### Ola meu nome e Luan  
+### Hi, my name is Luan! 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Oi! meu nome e Luan, full-stack developer 👨‍💻 working 🚀</div>  
+###  
   
 
 - 🔭 [https://github.com/luanpa](https://github.com/rishavanand/github-profilinator)  
