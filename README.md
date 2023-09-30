@@ -7,7 +7,7 @@
 ###  
   - 💬  https://www.linkedin.com/in/luan-batista-9223a41a1/
   
- https://imgbox.com/WX1EsQB8
+<a href="https://imgbox.com/WX1EsQB8" target="_blank"><img src="https://thumbs2.imgbox.com/27/34/WX1EsQB8_t.png" alt="image host"/></a>
 - 🌱 Atualmente estou aprendendo React  
   
 
