@@ -15,7 +15,9 @@
   
 
 -   Portfólio: https://portifolio-web-indol.vercel.app/
-  
+-   
+  ![](https://komarev.com/ghpvc/?username=your-luanpa)
+
 
 <br/>  
 
