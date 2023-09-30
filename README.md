@@ -5,12 +5,8 @@
   
 
 ###  
-  - 💬  https://www.linkedin.com/in/luan-batista-9223a41a1/
-  - 🌱 Atualmente estou aprendendo React  
-  
-
-- ❓ Quero aprender MERN stack e outras coisas  
-  
+  Who am I? 
+  Hi, I'm Luan,Software Engineering Student looking for an Internship
 
 -   Portfólio: https://portifolio-web-indol.vercel.app/
 -   
