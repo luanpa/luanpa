@@ -5,7 +5,6 @@
   
 
 ###  
-<a href="https://imgbox.com/xoMxAS6c" target="_blank"><img src="https://thumbs2.imgbox.com/14/8c/xoMxAS6c_t.png" alt="image host"/></a>
   - 💬  https://www.linkedin.com/in/luan-batista-9223a41a1/
   - 🌱 Atualmente estou aprendendo React  
   
