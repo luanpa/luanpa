@@ -10,9 +10,8 @@
 
 -   Portfólio: https://portifolio-web-indol.vercel.app/
 -   
-  ![](https://komarev.com/ghpvc/?username=your-luanpa)
+  ![.](https://komarev.com/ghpvc/?username=your-luanpa)
 
-  br/>  
   
 ### Frontend  
 <h3 align="left">Languages and Tools:</h3>
