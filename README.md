@@ -9,10 +9,10 @@
   Hi, I'm Luan,Software Engineering Student looking for an Internship
 
 -   Portfólio: https://portifolio-web-indol.vercel.app/
--   <br/>
+-   
   ![](https://komarev.com/ghpvc/?username=your-luanpa)
-<br/>
-<br/>  
+
+  br/>  
   
 ### Frontend  
 <h3 align="left">Languages and Tools:</h3>
