@@ -8,7 +8,7 @@
   Who am I? 
   Hi, I'm Luan,Software Engineering Student looking for an Internship
 
--   Portfólio: <p href="portifolio-web-amber.vercel.app" target="_blank"></p>
+-   Portfólio: portifolio-web-amber.vercel.app
 
 -   
   ![.](https://komarev.com/ghpvc/?username=your-luanpa)
